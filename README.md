@@ -1,4 +1,4 @@
-# RGB_Adaptive_Histo_Equalization (OpenCV)
+# Adaptive_Histogram_Equalization RGB Image (OpenCV)
  RGB_Adaptive_Histo_Equalization_Using_CLAHE
 
 ![](images/street.jpg)
